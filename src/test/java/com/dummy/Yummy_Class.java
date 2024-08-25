@@ -1,7 +1,7 @@
 package com.dummy;
 
 public class Yummy_Class {
-	private void methods() {
+	private void login() {
 		System.out.println("Methods");
 
 	}

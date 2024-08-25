@@ -1,8 +1,11 @@
 package com.dummy;
 
 public class Dummy_Class {
-	private void method() {
+	private void method1() {
 System.out.println("Method 1");
 	}
+	private void method2() {
+		System.out.println("Method 2");
+			}
 
 }
